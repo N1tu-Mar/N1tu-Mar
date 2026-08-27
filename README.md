@@ -1,4 +1,4 @@
-Yo! I'm Nitu
+# Yo! I'm Nitu
 
  
  I'm a CS and Neuroscience student at Rutgers. I started out as a premed and pivoted to tech because I wanted to solve large-scale global issues. I build agents and software solutions that are actually impactful.
