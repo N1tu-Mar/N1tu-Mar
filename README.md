@@ -31,7 +31,7 @@ Projects I've worked on (some have won awards too. Check them out on my github)
 
 Connect with me here too!
 
-[LinkedIn](linkedin.com/in/nityanth-maramreddy)
+[LinkedIn](https://www.linkedin.com/in/nityanth-maramreddy-7ba0a2208/)
 
 GitHub: you're already here
 
