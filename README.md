@@ -4,17 +4,17 @@
  I'm a CS and Neuroscience student at Rutgers. I started out as a premed and pivoted to tech because I wanted to solve large-scale global issues. I build agents and software solutions that are actually impactful.
 
 
-# What I'm up to right now
+## What I'm up to right now
 
 Building Kairos, an agent that hunts down funding a student founder can actually get and drafts the application overnight
 
-Launching The Forward Society at Rutgers this fall. Everyone brings a problem they care about, and the room tries to break their proposal
+Building Covenant, a crowdfunding platform on Base mainnet where the money sits in escrow and only unlocks once the creator posts proof on-chain and half the donors vote yes
 
-Doing way too many hackathons. Currently building an editing agent for short films
+Doing way too many hackathons. Currently building an editing agent for short films at an online one
 
 Fun fact: I'm obsessed with comics, manga/anime (watching Attack on Titan rn)! I'm a huge nerd who's also obsessed with videogames like Doom, Minecraft, Roblox, etc.
 
-## What I've Done in the past
+## What I've Done in the Past
 
 - Founder of Palura: Helping kids read with games! Here's a [prototype]([url](https://caverunner-demo.netlify.app/)) of one of our earliest games! We scaled Palura to 20 schools, YMCAs, & Kumons so far
 - Co-founder of Seqra, an open-source pipeline for designing antimicrobial peptides. Type what you want in English, get sequences and structures back
