@@ -16,7 +16,7 @@ Fun fact: I'm obsessed with comics, manga/anime (watching Attack on Titan rn)! I
 
 ## What I've Done in the Past
 
-- Founder of Palura: Helping kids read with games! Here's a [prototype]([url](https://caverunner-demo.netlify.app/)) of one of our earliest games! We scaled Palura to 20 schools, YMCAs, & Kumons so far
+- Founder of Palura: Helping kids read with games! We scaled Palura to 20 schools, YMCAs, & Kumons so far
 - Co-founder of Seqra, an open-source pipeline for designing antimicrobial peptides. Type what you want in English, get sequences and structures back
 - Product intern at Star (YC S22). Built prototypes for a game builder that needs no code, including an AI game design agent
 - Full-stack engineer at Neuropath Biosciences in London. Helped ship a diagnostic app that real doctors in the UK and US use for mental health diagnosis.
