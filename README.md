@@ -25,7 +25,7 @@ Fun fact: I'm obsessed with comics, manga/anime (watching Attack on Titan rn)! I
 
 ## Projects I've worked on (some have won awards too. Check them out on my GitHub)
 
-- Nomos, a whole city of cars driving with no traffic lights
+- Nomos, an RL simulation of San Francisco. Where we trained agents (aka cars) to drive with no traffic lights, yield for pedestrians, and follow american driving laws
 - Meridian, an agent that gets patients from a referral to a booked colonoscopy. It never diagnoses anything
 - Blackstart, a live model of how long a Navy hospital survives a blackout. Written in Jac, with an LLM playing the adversary
 - Thaakat, a voice agent that reads a woman's entire medical record and finds what nobody put together. 
