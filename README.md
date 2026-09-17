@@ -25,12 +25,12 @@ Fun fact: I'm obsessed with comics, manga/anime (watching Attack on Titan rn)! I
 
 ## Projects I've worked on (some have won awards too. Check them out on my GitHub)
 
-- [Nomos]([url](https://www.aivalley.io/hackathons/hud-frontier-rsi-rl-environments-hackathon/projects/3b03a168-b363-460f-b062-c596177fce8a)), an RL simulation of San Francisco. Where we trained agents (aka cars) to drive with no traffic lights, yield for pedestrians, and follow American driving laws
-- [Naigos]([url](https://github.com/N1tu-Mar/Naigos)), an RL world of Dubai, Tehran, etc. Agents are autonomous aircraft that must avoid enemy drones and fighter pilots and reach objectives in the shortest time. Uses real physics
-- [Meridian]([url](https://github.com/N1tu-Mar/Merid)), an agent that gets patients from a referral to a booked colonoscopy. It never diagnoses anything
-- [Blackstart]([url](https://github.com/N1tu-Mar/Blackstar/branches)), a live model of how long a Navy hospital survives a blackout. Written in Jac, with an LLM playing the adversary
-- [Thaakat]([url](https://github.com/azrabano23/thaakat-health)), a voice agent that reads a woman's entire medical record and finds what nobody put together. 
-- [MacroLeague]([url](https://github.com/N1tu-Mar/MacroLeague)), nutrition tracking as a league table with your friends. Inspired by FanDuel's model.
+- [Nomos](https://www.aivalley.io/hackathons/hud-frontier-rsi-rl-environments-hackathon/projects/3b03a168-b363-460f-b062-c596177fce8a), an RL simulation of San Francisco. Where we trained agents (aka cars) to drive with no traffic lights, yield for pedestrians, and follow American driving laws
+- [Naigos](https://github.com/N1tu-Mar/Naigos), an RL world of Dubai, Tehran, etc. Agents are autonomous aircraft that must avoid enemy drones and fighter pilots and reach objectives in the shortest time. Uses real physics
+- [Meridian](https://github.com/N1tu-Mar/Merid), an agent that gets patients from a referral to a booked colonoscopy. It never diagnoses anything
+- [Blackstart](https://github.com/N1tu-Mar/Blackstar/branches), a live model of how long a Navy hospital survives a blackout. Written in Jac, with an LLM playing the adversary
+- [Thaakat](https://github.com/azrabano23/thaakat-health), a voice agent that reads a woman's entire medical record and finds what nobody put together. 
+- [MacroLeague](https://github.com/N1tu-Mar/MacroLeague), nutrition tracking as a league table with your friends. Inspired by FanDuel's model.
 
 
 ## Connect with me here too!
