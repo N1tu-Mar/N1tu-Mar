@@ -6,7 +6,7 @@
 
 ## What I'm up to right now
 
-Building [Kairos]([url](https://github.com/N1tu-Mar/Kairos)), an agent that hunts down funding a student founder can actually get and drafts the application overnight
+Building [Kairos]([https://github.com/N1tu-Mar/Kairos)]), an agent that hunts down funding a student founder can actually get and drafts the application overnight
 
 Building [Covenant]([url](https://github.com/arjunram2020/covenant)), a crowdfunding platform on Base mainnet where the money sits in escrow and only unlocks once the creator posts proof on-chain and half the donors vote yes
 
