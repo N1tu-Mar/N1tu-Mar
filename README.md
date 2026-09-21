@@ -14,6 +14,8 @@ Doing way too many hackathons. Currently building an editing agent for short fil
 
 Fun fact: I'm obsessed with comics, manga/anime (watching Attack on Titan rn)! I'm a huge nerd who's also obsessed with videogames like Doom, Minecraft, Roblox, etc.
 
+Also, I genuinely love to build anything, as you can see by my GitHub (genuinely, it's a problem 😭)
+
 ## What I've Done in the Past
 
 - Founder of Palura: Helping kids read with games! We scaled Palura to 20 schools, YMCAs, & Kumons so far
