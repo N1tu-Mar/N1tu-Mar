@@ -43,3 +43,5 @@ GitHub: you're already here
 
 Email: nityanth.maramreddy@gmail.com
 
+## CHECK OUT SOME OF MY PINNED PROJECTS!
+
